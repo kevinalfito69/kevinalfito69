@@ -1,7 +1,9 @@
 ## 💫 About Me:
 - 👋 Hi, I’m @kevinalfito69<br>
-- 👀 I’m interested in Web development<br>
-- 📫 How to reach me, you can send me message to kevintekno21@gmail.com<br><br>
+- 👨🏻‍💻 I’m interested in Web development<br>
+- 📫 How to reach me, you can send me message to kevintekno21@gmail.com<br>
+
+<br>
 
 
 ## 🌐 Socials:
