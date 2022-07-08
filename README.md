@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kevinalfito69&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalfito69&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevinalfito69&theme=midnight-purple&hide_border=false)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinalfito69&repo=JavaScript_Dasar](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/pin/?username=kevinalfito69&repo=JavaScript_Dasar)
 
 
 ---
