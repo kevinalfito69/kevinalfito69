@@ -1,7 +1,7 @@
 ## 💫 About Me:
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi, I’m @kevinalfito69<br>
 - 🧑‍💻 I’m interested in Web development<br>
-- 💌 How to contact me?, you can send me message to [mail](mailto:kevintekno21@gmail.com)<br>
+- 💌 How to contact me?, you can send me message to [Email](mailto:kevintekno21@gmail.com)
 - 💼 Visit my [Portofolio](https://kevinalfito69.github.io/)<br>
 - ❤️ Visit my blog [Kevin Tekno](https://www.kevintekno.com/)<br>
 
