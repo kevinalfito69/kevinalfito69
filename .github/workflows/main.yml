@@ -31,7 +31,6 @@ jobs:
           base_hireable: yes
           config_display: columns
           config_octicon: yes
-          config_padding: 0
           config_timezone: Asia/Jakarta
           plugin_achievements: yes
           plugin_achievements_display: detailed
