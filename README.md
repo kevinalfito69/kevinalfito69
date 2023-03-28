@@ -7,18 +7,7 @@
 
 <br>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kevinalfito17) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevin.tekno) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-alfito) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kevin_alfito) 
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=kevinalfito69&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalfito69&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kevinalfito69&theme=gotham&hide_border=false)
-
-
----
+![Metrics](https://metrics.lecoq.io/kevinalfito69?template=classic&base.hireable=true&isocalendar=1&languages=1&lines=1&habits=1&pagespeed=1&code=1&activity=1&repositories=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&pagespeed=false&pagespeed.url=https%3A%2F%2Fwww.kevintekno.com%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=true&config.timezone=Asia%2FJakarta)
 
 [![](https://visitcount.itsvg.in/api?id=kevinalfito69&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
