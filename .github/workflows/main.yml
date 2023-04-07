@@ -77,3 +77,7 @@ jobs:
           plugin_posts_user: kevinalfito69
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
