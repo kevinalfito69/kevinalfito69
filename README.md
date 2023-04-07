@@ -17,8 +17,10 @@
 </p>
 
 ## 💡 Sumary
+<picture>
+  <img src="/github-metrics.svg" alt="Sumarry" width="100%">
+</picture>
 
-![Loading summary...](https://metrics.lecoq.io/?template=classic&anilist=1&rss=1&achievements=1&topics=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&topics=false&topics.mode=icons&topics.sort=stars&topics.limit=15&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&anilist=false&anilist.user=.kevinalfito.login&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&rss=false&rss.source=https%3A%2F%2Fwww.kevintekno.com%2Ffeeds%2Fposts%2Fdefault&rss.limit=4&config.timezone=Asia%2FJakarta&config.display=large)
 
 [![](https://visitcount.itsvg.in/api?id=kevinalfito69&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
