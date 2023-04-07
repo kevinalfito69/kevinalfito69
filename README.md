@@ -18,7 +18,7 @@
 
 ## 💡 Sumary
 <picture>
-  <img src="/github-metrics.svg" alt="Sumarry" width="100%">
+  <img src="/github-metrics.svg" alt="Sumarry" >
 </picture>
 
 
