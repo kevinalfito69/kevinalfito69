@@ -76,7 +76,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: 317zo26ilwyj7v6kycu2i2no6dgu
+#           plugin_music_user: 317zo26ilwyj7v6kycu2i2no6dgu
           plugin_pagespeed: yes
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_url: www.kevintekno.com
