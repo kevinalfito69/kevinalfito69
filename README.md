@@ -27,6 +27,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=kevinalfito69&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+## TryHackMe Badge
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kevinalfito.png" alt="TryHackMe"/>
   
  ## 📛 Holopin board
 [![@kevinalfito's Holopin board](https://holopin.me/kevinalfito)](https://holopin.io/@kevinalfito)
