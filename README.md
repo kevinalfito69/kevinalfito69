@@ -31,4 +31,4 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/kevinalfito.png" alt="TryHackMe"/>
   
  ## 📛 Holopin board
-[![@kevinalfito's Holopin board](https://holopin.me/kevinalfito)](https://holopin.io/@kevinalfito)
+[![An image of @kevinalfito's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kevinalfito)](https://holopin.io/@kevinalfito)
