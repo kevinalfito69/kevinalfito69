@@ -4,7 +4,7 @@
 <p align="center"> Visit my </p>
 
 <p align="center">
-    <a href="https://kevinalfito69.github.io/">Portofolio</a> •
+    <a href="https://portofolio.kevintekno.com/">Portofolio</a> •
     <a href="https://www.linkedin.com/in/kevin-alfito">LinkedIn</a> •
     <a href="https://dev.to/kevinalfito69">Dev.to</a> •
     <a href="https://twitter.com/kevin_alfito">Twitter</a> •
