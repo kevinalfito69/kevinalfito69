@@ -25,6 +25,8 @@
   <img src="/github-metrics.svg" alt="Sumarry" >
 </picture>
 
+## Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalfito69&langs_count=8&card_width=800&theme=transparent&hide_title=true)
 
 [![](https://visitcount.itsvg.in/api?id=kevinalfito69&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <p>
