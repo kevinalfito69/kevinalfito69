@@ -3,6 +3,7 @@
 <p align="center">I'm blogger at <a href="https://www.kevintekno.com">Kevin Tekno</a> I’m interested in Web & Mobile Development</p>
 <p align="center"> Visit my </p>
 
+
 <p align="center">
     <a href='https://portofolio.kevintekno.com/' target="_blank"><img alt='astro' src='https://img.shields.io/badge/Portofolio-100000?style=flat&logo=astro&logoColor=F75A01&labelColor=000000&color=000000'/></a> •
     <a href='https://www.linkedin.com/in/kevin-alfito' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5'/></a> •
