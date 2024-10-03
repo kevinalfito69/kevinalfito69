@@ -32,6 +32,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
+	  plugin_rss_source: https://www.kevintekno.com/rss.xml
           plugin_rss: yes
           plugin_rss_limit: 4
 
@@ -43,9 +44,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount
 
       - name: Achievements
         if: ${{ success() || failure() }}
@@ -73,5 +71,6 @@ jobs:
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_music: yes
+	  plugin_music_provider: spotify
           plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1EQpgT26jgbgRI
           plugin_music_limit: 4
