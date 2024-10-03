@@ -27,12 +27,9 @@
 [<img align="right" width="390"  alt="🦑" src="https://github.com/kevinalfito69/kevinalfito69/blob/main/achievements.svg"/>](#)
 [<img align="right" width="390" alt="🦑" src="/sponsors.svg">](https://github.com/sponsors/kevinalfito69)
 
+[<img align="right" width="390" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="200px"/>](#)
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 [![](https://visitcount.itsvg.in/api?id=kevinalfito69&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<p>
-<img src="https://i.giphy.com/ua7vVw9awZKWwLSYpW.webp" width="100"/>
-<img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="200px"/>
-</p>
 
 ## 🌌 TryHackMe Badge
 
