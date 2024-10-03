@@ -22,13 +22,11 @@
 </p>
 
 ## 💡 Sumary
-<picture>
-  <img src="/github-metrics.svg" alt="Sumarry" >
-</picture>
+<img align="left" width="390" alt="🦑" src="/general.svg"/>
+<img align="right" width="390" alt="🦑" src="/medias.svg"/>
+<img align="right" width="390"  alt="🦑" src="https://github.com/kevinalfito69/kevinalfito69/blob/main/achievements.svg"/>
 
-## Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinalfito69&langs_count=8&card_width=800&theme=transparent&hide_title=true)
-
+[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 [![](https://visitcount.itsvg.in/api?id=kevinalfito69&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <p>
 <img src="https://i.giphy.com/ua7vVw9awZKWwLSYpW.webp" width="100"/>
