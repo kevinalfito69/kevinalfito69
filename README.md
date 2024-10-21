@@ -10,8 +10,8 @@
     <a href='https://dev.to/kevinalfito69' target="_blank"><img alt='Dev.to' src='https://img.shields.io/badge/Dev.to-100000?style=flat&logo=Dev.to&logoColor=white&labelColor=black&color=black'/></a> •
     <a href='https://twitter.com/kevin_alfito' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=flat&logo=x&logoColor=white&labelColor=000000&color=000000'/></a> •
     <a href='https://instagram.com/kevin.tekno' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=E4405F&labelColor=000000&color=000000'/></a> •
-    <a href='https://g.dev/kevin-alfito' target="_blank"><img alt='google' src='https://img.shields.io/badge/G.Dev-100000?style=flat&logo=google&logoColor=4081EC&labelColor=FFFFFF&color=FFFFFF'/></a> • 
     <a href='https://dribbble.com/kevinalfito' target="_blank"><img alt='dribbble' src='https://img.shields.io/badge/Dribbble-100000?style=flat&logo=dribbble&logoColor=B8509A&labelColor=FFABE7&color=FFABE7'/></a> •
+    <a href='https://g.dev/kevin-alfito' target="_blank"><img alt='google' src='https://img.shields.io/badge/G.Dev-100000?style=flat&logo=google&logoColor=4081EC&labelColor=FFFFFF&color=FFFFFF'/></a> • 
     <a href='https://www.cloudskillsboost.google/public_profiles/488ae410-4397-4c7d-b543-1e4d0b37d280' target="_blank"><img alt='google cloud' src='https://img.shields.io/badge/Google_Cloud Skills Boost-100000?style=flat&logo=google cloud&logoColor=E34133&labelColor=FFFFFF&color=FFFFFF'/></a>
 
    
