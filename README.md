@@ -1,7 +1,7 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /> Hi, I’m <b> Kevin Alfito</b><br></h2>
 
-<p align="center">I'm blogger at <a href="https://www.kevintekno.com">Kevin Tekno</a> I’m interested in Web & Mobile Development</p>
-<p align="center"> Visit my </p>
+<p align="center">Hello everyone I am a Mobile and Web Developer I love to learn new things about programming and active in several open source projects I also like to write on my personal website <a href="https://www.kevintekno.com">Kevin Tekno</a></p>
+<p align="center"> You can also visit some of my social media profiles below. </p>
 
 
 <p align="center">
