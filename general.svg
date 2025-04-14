@@ -1095,14 +1095,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 412kb of code in 153 edited files across 107 commits over last 3 days</small>
+                <small>estimation from 454kb of code in 166 edited files across 109 commits over last 3 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.06987378818366" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="324.06987378818366" y="0" width="135.93012621181634" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.2751842751843" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="338.2751842751843" y="0" width="121.72481572481573" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1114,9 +1114,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>450 lines</div>
-                                <div>15.4 kB</div>
-                                <div>70.45%</div>
+                                <div>536 lines</div>
+                                <div>17.9 kB</div>
+                                <div>73.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1129,7 +1129,7 @@
                             <small>
                                 <div>160 lines</div>
                                 <div>6.46 kB</div>
-                                <div>29.55%</div>
+                                <div>26.46%</div>
                             </small>
                         </div>
                     </section>
