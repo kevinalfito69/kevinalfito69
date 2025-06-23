@@ -1095,14 +1095,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 174kb of code in 156 edited files across 103 commits over last 14 days</small>
+                <small>estimation from 176kb of code in 162 edited files across 107 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.4988229840433" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="432.4988229840433" y="0" width="27.501177015956713" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.8669229779753" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="432.8669229779753" y="0" width="27.13307702202467" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1114,9 +1114,9 @@
                                 Blade
                             </div>
                             <small>
-                                <div>3.70k lines</div>
-                                <div>129 kB</div>
-                                <div>94.02%</div>
+                                <div>3.74k lines</div>
+                                <div>131 kB</div>
+                                <div>94.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1129,7 +1129,7 @@
                             <small>
                                 <div>214 lines</div>
                                 <div>8.25 kB</div>
-                                <div>5.98%</div>
+                                <div>5.9%</div>
                             </small>
                         </div>
                     </section>
