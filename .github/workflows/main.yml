@@ -34,9 +34,6 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
-          plugin_rss_source: https://www.kevintekno.com/rss.xml
-          plugin_rss: yes
-          plugin_rss_limit: 4
 
       - name: Sponsors
         if: ${{ success() || failure() }}
